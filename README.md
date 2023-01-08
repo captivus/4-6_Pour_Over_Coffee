@@ -1,4 +1,4 @@
-# 4-6_Pour_Over_Coffee
+# The 4:6 Pour Over Coffee Method
 4:6 Pour Over Coffee Recipe Calculator
 
 This spreadsheet model generates a recipe for the 4:6 pour over method invented by 2016 World Barista Champion Tetsu Kasuya.  
